@@ -17,7 +17,7 @@ Step 5: mvn clean install
 
 Step 6: mvn spring-boot:run
 
-Step 7: From the browser call the endpoint http://localhost:9080
+Step 7: From the browser call the endpoint http://localhost:9090
 
 Step 8: Register using your own credentials and Login using same credentials.
 
