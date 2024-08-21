@@ -1,7 +1,9 @@
-# Java, Spring Boot Mini Project - Library Management System
+Library Management System using Java Full Stack(Java. SpringBoot)
+
+A Library Management System (LMS) is a software application designed to manage and automate the operations of a library. It allows libraries to efficiently manage books, users, and transactions. The system simplifies the management of library resources, making it easier for librarians and members to access and manage the information related to the library's collection.
 
 
-# Local setup
+## Installation
 
 Step 1: Download or clone the source code from GitHub to the local machine
 
@@ -11,32 +13,40 @@ Step 3: Install IntelliJ IDEA or Eclipse or Apache NetBeans IDE
 
 Step 4: Install Apache Maven - https://maven.apache.org/install.html
 
-Step 5:  ```mvn clean install```
+Step 5: mvn clean install
 
-Step 6:  ```mvn spring-boot:run```
+Step 6: mvn spring-boot:run
 
 Step 7: From the browser call the endpoint http://localhost:9080
 
-Step 8: Admin Login User Id: ```admin@admin.in``` & Password: ```Temp123```
+Step 8: Register using your own credentials and Login using same credentials.
+
+Step 9: If you want to store the credentials permanently then use MySql Database.    
+## Roadmap to Run the Application
+
+ Step 1: Download or clone the source code from GitHub to the local machine
+
+Step 2: Before running of Main Application ensure which database you want to use and change the Dependency as per your database in pom.xml file.
+
+Step 3:  In source Folder go to the Main appliaction and Run the Main Application.
+
+##ScreenShots
+
+Png 1)![image](https://github.com/user-attachments/assets/e69a2782-90c4-4aff-a393-909e510720e0)
+
+Png 2)![image](https://github.com/user-attachments/assets/48124166-c79c-461a-b3eb-d8221f86fbb7)
+
+Png 3)![image](https://github.com/user-attachments/assets/903b610a-29ae-4031-b75d-471d3ab08b4a)
+
+Png 4)![image](https://github.com/user-attachments/assets/03c80ae6-e6b6-4a6a-a4e1-2bb916e388c0)
+
+Png 5)![image](https://github.com/user-attachments/assets/1bcb8607-d3ba-48d1-b29a-a13de18d9af0)
+
+Png 6)![image](https://github.com/user-attachments/assets/0e9d9adc-3fc8-4f51-8622-c22ca081dbb0)
 
 
-# Admin Login Interface
-
-![image](https://github.com/user-attachments/assets/0ab87f49-57b6-45b6-b632-e342642288f6)
 
 
-# Add new books, update books, view books, delete books
 
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYMpuCQx3lGsS4T_H4ziyDWIkBpYV5qgo5JHFMV0Drper48H7YfygEdv0htE3yWo8mlypUW9W7NFY00UtrVznFfFYIzNGAXBeskhBb_kHAJrVKnI7O5mZt0_c085n6ir-cNVEYsTYffn6WgCmoBiZULR88ah_YxDC-ywRKPTsxj58GcHFnyyeX00RsNA/s800/library-management-system.png">
 
-# Add new authors, update authors, view authors, delete authors
 
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixAW5k4E9IXf_OuVO1S5m100KS1xFo2ZrFoLnZYvNLjfpmIdI8W0ukd6yQn6oTsSWBKjDdAIGsnPf0EhgRwKzfpVq3mJXMcqG94Qp2oCCy0Pzf01b3kXP2ahgbvpFQND60c7cHwPNZ7A6uXh7fxqvB5od26PleS3giunEN-uAuFIuKijjELspH1_gLcw/s934/authors-list.png">
-
-# Add new categories, update categories, view categories, delete categories
-
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYe6-eBO4HZjqE1Rr0PLoHS1dlvlnwuagwQtX6eRavoDsWRGk4yfguhWIdcOFRgM4H7985xL1bdiLQLqX_iU7RzddDb1yiQ0P3M0sfwUdTRlRGMg85Kp2KKTsVZH5WGlptL6LFRTITq4oSCJFFCZwGML1RrxI-chu-xb4eXOWIoZpNlFWLLUzkW6zLdQ/s935/categorylist.png">
-
-# Add new publishers, update publishers, view publishers, delete publishers
-
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcNQAd4UVi_bYQQSvW49hn0rQ1O7bEBDyN4DDNJSH1rtxBg37QIHQKAp7ELGbFV4Xva2F0DmhTkA3vKVeZcmKs7lODgTulsJr1aLyBckEojzxzZE5FYlfuEwD62Qco6PsjdNVPEWT76GlyVnSP94zNZK59w3CMRuvbYjoc1-MpyXj-WCeNEjPDm6mucw/s938/publishers-list.png">
