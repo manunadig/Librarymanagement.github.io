@@ -22,7 +22,8 @@ Step 8: Admin Login User Id: ```admin@admin.in``` & Password: ```Temp123```
 
 # Admin Login Interface
 
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiuctxupeOK4Nh8j-nomwwapjkcVvkYig3lX7qoifcXE76_6CnOXMZ-CLww7G180qegsCkrtyUlaqpJsWm9GzhX9QUFxyNyEUAXFD5UWJpvh2BdIr0wyAnFC38QOdsL_1vak8LtxYHrZyplCU_Sri-7kM9nXxI9heXXB0621rzJgL6j1CSweX6xjaorg/s945/admin-login.png">
+![image](https://github.com/user-attachments/assets/0ab87f49-57b6-45b6-b632-e342642288f6)
+
 
 # Add new books, update books, view books, delete books
 
