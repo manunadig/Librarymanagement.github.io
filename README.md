@@ -1,4 +1,4 @@
-Library Management System using Java Full Stack(Java. SpringBoot)
+Library Management System using Java Full Stack(Java SpringBoot)
 
 A Library Management System (LMS) is a software application designed to manage and automate the operations of a library. It allows libraries to efficiently manage books, users, and transactions. The system simplifies the management of library resources, making it easier for librarians and members to access and manage the information related to the library's collection.
 
